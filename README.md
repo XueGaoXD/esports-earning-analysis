@@ -121,8 +121,6 @@ python esports_earnings_analysis.py
 
 ## 9. 致谢（Acknowledgements）
 
-数据来源：[eSportsEarnings.com](https://esportsearnings.com)（经天池数据集转载）。本项目仅用于数据分析方法学习与求职作品展示。
+数据来源：[eSportsEarnings.com](https://esportsearnings.com)（经天池数据集转载）1998年-2020年。本项目仅用于数据分析方法学习与求职作品展示。
 
 ---
-
-内容由 AI 生成
